@@ -7,26 +7,26 @@ Here you can find a **Financial Dashboard** realized with *Python*, *Dash* and *
 
 ### Some screenshots of this project
 **Home Page**
-![](financial_dashboard/screenshots/Home_1.png)  
+![](screenshots/Home_1.png)  
 </br>
-![](financial_dashboard/screenshots/Home_2.png)  
+![](screenshots/Home_2.png)  
 </br>
-![](financial_dashboard/screenshots/Home_3.png)  
+![](screenshots/Home_3.png)  
 </br>
-![](financial_dashboard/screenshots/Home_4.png)  
+![](screenshots/Home_4.png)  
 </br>
 **Statistics about Stocks**
-![](financial_dashboard/screenshots/Stats_1.png)  
+![](screenshots/Stats_1.png)  
 </br>
-![](financial_dashboard/screenshots/Stats_2.png)  
+![](screenshots/Stats_2.png)  
 </br>
 **Sentiment Analysis with Twitter Data**
-![](financial_dashboard/screenshots/Sentiment_Analysis.png)  
+![](screenshots/Sentiment_Analysis.png)  
 </br>
 **Simulation of portfolio & Efficient frontier**
-![](financial_dashboard/screenshots/Max_Sharpe.png)  
+![](screenshots/Max_Sharpe.png)  
 </br>
-![](financial_dashboard/screenshots/Backtesting.png)  
+![](screenshots/Backtesting.png)  
 </br>
 **Max Sharpe Ratio Portfolio Single Index Model**
-![](financial_dashboard/screenshots/Portfolio_SIM.png)  
+![](screenshots/Portfolio_SIM.png)  
